@@ -7,4 +7,6 @@ require.config({
 
 require(['Game'],function(Game){
 	Game.init();
+	// Game.start();
+	// Game.top();
 })
